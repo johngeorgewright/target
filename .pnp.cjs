@@ -3203,7 +3203,7 @@ const RAW_RUNTIME_STATE =
           ["rimraf", "npm:5.0.10"],\
           ["semantic-release", "npm:23.1.1"],\
           ["semantic-release-monorepo", "virtual:8bbf7a23f56d69c61ce3fb6739c3b21bfba2be0c26d1f1893012c8f8e9744fa3cbff3928887945483b9bd6461253526eaee40dc6435a5a7b7e057e35f4df3ae7#npm:8.0.2"],\
-          ["supertest", "npm:6.3.4"],\
+          ["supertest", "npm:7.0.0"],\
           ["ts-jest", "virtual:78776105526f67704c5d821aa139591fbba11fdbd5f03f51d916c5f752b52ce5b35f9731aa4a7b9fc9fe491d6229cf4b9abfbb54db395f33bbe11c0e0b749fa6#npm:29.2.5"],\
           ["ts-toolbelt", "npm:9.6.0"],\
           ["tslib", "npm:2.7.0"],\
@@ -3412,7 +3412,7 @@ const RAW_RUNTIME_STATE =
           ["rimraf", "npm:5.0.10"],\
           ["semantic-release", "npm:23.1.1"],\
           ["semantic-release-monorepo", "virtual:8bbf7a23f56d69c61ce3fb6739c3b21bfba2be0c26d1f1893012c8f8e9744fa3cbff3928887945483b9bd6461253526eaee40dc6435a5a7b7e057e35f4df3ae7#npm:8.0.2"],\
-          ["supertest", "npm:6.3.4"],\
+          ["supertest", "npm:7.0.0"],\
           ["ts-jest", "virtual:78776105526f67704c5d821aa139591fbba11fdbd5f03f51d916c5f752b52ce5b35f9731aa4a7b9fc9fe491d6229cf4b9abfbb54db395f33bbe11c0e0b749fa6#npm:29.2.5"],\
           ["tslib", "npm:2.7.0"],\
           ["typescript", "patch:typescript@npm%3A5.4.5#optional!builtin<compat/typescript>::version=5.4.5&hash=5adc0c"],\
@@ -3455,7 +3455,7 @@ const RAW_RUNTIME_STATE =
           ["rimraf", "npm:5.0.10"],\
           ["semantic-release", "npm:23.1.1"],\
           ["semantic-release-monorepo", "virtual:8bbf7a23f56d69c61ce3fb6739c3b21bfba2be0c26d1f1893012c8f8e9744fa3cbff3928887945483b9bd6461253526eaee40dc6435a5a7b7e057e35f4df3ae7#npm:8.0.2"],\
-          ["supertest", "npm:6.3.4"],\
+          ["supertest", "npm:7.0.0"],\
           ["ts-jest", "virtual:78776105526f67704c5d821aa139591fbba11fdbd5f03f51d916c5f752b52ce5b35f9731aa4a7b9fc9fe491d6229cf4b9abfbb54db395f33bbe11c0e0b749fa6#npm:29.2.5"],\
           ["tslib", "npm:2.7.0"],\
           ["typescript", "patch:typescript@npm%3A5.4.5#optional!builtin<compat/typescript>::version=5.4.5&hash=5adc0c"],\
@@ -7715,14 +7715,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["formidable", [\
-      ["npm:2.1.2", {\
-        "packageLocation": "./.yarn/cache/formidable-npm-2.1.2-40ba18d67f-d385180e04.zip/node_modules/formidable/",\
+      ["npm:3.5.1", {\
+        "packageLocation": "./.yarn/cache/formidable-npm-3.5.1-257e5eab8a-c9a7bbbd4c.zip/node_modules/formidable/",\
         "packageDependencies": [\
-          ["formidable", "npm:2.1.2"],\
+          ["formidable", "npm:3.5.1"],\
           ["dezalgo", "npm:1.0.4"],\
           ["hexoid", "npm:1.0.0"],\
-          ["once", "npm:1.4.0"],\
-          ["qs", "npm:6.11.2"]\
+          ["once", "npm:1.4.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -15385,31 +15384,30 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["superagent", [\
-      ["npm:8.1.2", {\
-        "packageLocation": "./.yarn/cache/superagent-npm-8.1.2-44190e1fe9-33d0072e05.zip/node_modules/superagent/",\
+      ["npm:9.0.2", {\
+        "packageLocation": "./.yarn/cache/superagent-npm-9.0.2-9e8cceb765-d3c0c9051c.zip/node_modules/superagent/",\
         "packageDependencies": [\
-          ["superagent", "npm:8.1.2"],\
+          ["superagent", "npm:9.0.2"],\
           ["component-emitter", "npm:1.3.0"],\
           ["cookiejar", "npm:2.1.4"],\
           ["debug", "virtual:071d471ccd267160a6f0ec15e4cdc2874728a012db8f34521faf9e64a516aa918ee9ebab3c4c084d955ab74aaac5b8be9afb7a168813c9f210acdb7d88754ab9#npm:4.3.4"],\
           ["fast-safe-stringify", "npm:2.1.1"],\
           ["form-data", "npm:4.0.0"],\
-          ["formidable", "npm:2.1.2"],\
+          ["formidable", "npm:3.5.1"],\
           ["methods", "npm:1.1.2"],\
           ["mime", "npm:2.6.0"],\
-          ["qs", "npm:6.11.2"],\
-          ["semver", "npm:7.6.0"]\
+          ["qs", "npm:6.11.2"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["supertest", [\
-      ["npm:6.3.4", {\
-        "packageLocation": "./.yarn/cache/supertest-npm-6.3.4-ddb2a7be36-93015318f5.zip/node_modules/supertest/",\
+      ["npm:7.0.0", {\
+        "packageLocation": "./.yarn/cache/supertest-npm-7.0.0-8060c32e4d-73bf2a37e1.zip/node_modules/supertest/",\
         "packageDependencies": [\
-          ["supertest", "npm:6.3.4"],\
+          ["supertest", "npm:7.0.0"],\
           ["methods", "npm:1.1.2"],\
-          ["superagent", "npm:8.1.2"]\
+          ["superagent", "npm:9.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
