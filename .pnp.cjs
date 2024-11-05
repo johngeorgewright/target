@@ -3049,7 +3049,7 @@ const RAW_RUNTIME_STATE =
           ["jest", "virtual:78776105526f67704c5d821aa139591fbba11fdbd5f03f51d916c5f752b52ce5b35f9731aa4a7b9fc9fe491d6229cf4b9abfbb54db395f33bbe11c0e0b749fa6#npm:29.7.0"],\
           ["prettier-2", [\
             "prettier",\
-            "npm:2.8.8"\
+            "npm:3.3.3"\
           ]],\
           ["rimraf", "npm:5.0.10"],\
           ["semantic-release", "npm:23.1.1"],\
@@ -3081,7 +3081,7 @@ const RAW_RUNTIME_STATE =
           ["jest", "virtual:78776105526f67704c5d821aa139591fbba11fdbd5f03f51d916c5f752b52ce5b35f9731aa4a7b9fc9fe491d6229cf4b9abfbb54db395f33bbe11c0e0b749fa6#npm:29.7.0"],\
           ["prettier-2", [\
             "prettier",\
-            "npm:2.8.8"\
+            "npm:3.3.3"\
           ]],\
           ["rimraf", "npm:5.0.10"],\
           ["semantic-release", "npm:23.1.1"],\
@@ -13443,13 +13443,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prettier", [\
-      ["npm:2.8.8", {\
-        "packageLocation": "./.yarn/cache/prettier-npm-2.8.8-430828a36c-00cdb6ab02.zip/node_modules/prettier/",\
-        "packageDependencies": [\
-          ["prettier", "npm:2.8.8"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:3.2.5", {\
         "packageLocation": "./.yarn/unplugged/prettier-npm-3.2.5-6859110d6a/node_modules/prettier/",\
         "packageDependencies": [\
