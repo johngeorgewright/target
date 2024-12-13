@@ -45,7 +45,7 @@
     "semantic-release-monorepo": "8.0.2",
     "ts-node": "10.9.2",
     "typescript": "5.4.5",
-    "yo": "4.3.1"
+    "yo": "5.1.0"
   },
   "config": {
     "commitizen": {
