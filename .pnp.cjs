@@ -3396,7 +3396,7 @@ const RAW_RUNTIME_STATE =
           ["@targetd/date-range", "virtual:049c1d28e5b9765667b7008f2694b3886d79f2113b2827f735bfa4f93e239d09c6d92193058dc55e737c58ebb15f0b8530088b5cf795627062174f566080b49f#workspace:packages/date-range"],\
           ["@types/cors", "npm:2.8.17"],\
           ["@types/express", "npm:4.17.21"],\
-          ["@types/express-serve-static-core", "npm:4.19.6"],\
+          ["@types/express-serve-static-core", "npm:5.0.4"],\
           ["@types/jest", "npm:29.5.13"],\
           ["@types/lodash", "npm:4.17.9"],\
           ["@types/node", "npm:20.16.9"],\
@@ -3441,7 +3441,7 @@ const RAW_RUNTIME_STATE =
           ["@targetd/date-range", "virtual:049c1d28e5b9765667b7008f2694b3886d79f2113b2827f735bfa4f93e239d09c6d92193058dc55e737c58ebb15f0b8530088b5cf795627062174f566080b49f#workspace:packages/date-range"],\
           ["@types/cors", "npm:2.8.17"],\
           ["@types/express", "npm:4.17.21"],\
-          ["@types/express-serve-static-core", "npm:4.19.6"],\
+          ["@types/express-serve-static-core", "npm:5.0.4"],\
           ["@types/jest", "npm:29.5.13"],\
           ["@types/lodash", "npm:4.17.9"],\
           ["@types/node", "npm:20.16.9"],\
@@ -3706,10 +3706,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.19.6", {\
-        "packageLocation": "./.yarn/cache/@types-express-serve-static-core-npm-4.19.6-cc0017aaf4-a2e00b6c59.zip/node_modules/@types/express-serve-static-core/",\
+      ["npm:5.0.4", {\
+        "packageLocation": "./.yarn/cache/@types-express-serve-static-core-npm-5.0.4-e829065857-d19ee97380.zip/node_modules/@types/express-serve-static-core/",\
         "packageDependencies": [\
-          ["@types/express-serve-static-core", "npm:4.19.6"],\
+          ["@types/express-serve-static-core", "npm:5.0.4"],\
           ["@types/node", "npm:20.11.19"],\
           ["@types/qs", "npm:6.9.7"],\
           ["@types/range-parser", "npm:1.2.4"],\
